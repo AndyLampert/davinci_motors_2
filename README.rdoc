@@ -22,4 +22,3 @@ Note: This app utilizes MailCatcher. To install it, do the following:
   gem install mailcatcher
   mailcatcher
   Visit http://localhost:1080/ in a browser
-  
